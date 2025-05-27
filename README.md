@@ -1,4 +1,4 @@
-## I'm not really sure about what to put here.
+## i use arch btw
 
 <!--
 **uusaid/uusaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
